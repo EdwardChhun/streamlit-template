@@ -1,0 +1,6 @@
+streamlit-elements==0.1.*
+streamlit-ace
+streamlit-option-menu
+plotly
+streamlit-webrtc
+opencv-python-headless
